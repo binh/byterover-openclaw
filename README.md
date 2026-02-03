@@ -122,7 +122,7 @@ brv push --headless --format json -y
 
 *7. Cloud Sync & Portability*
 - Knowledge backed up automatically
-- ⁠Viewable online at https://app.byterover.dev/AVV/binh
+- ⁠Viewable online at https://app.byterover.dev/team/space
 - ⁠Could be accessed from multiple systems if needed
 
 *8. Better Compaction*

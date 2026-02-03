@@ -188,10 +188,10 @@ brv push --headless --format json -y
 ## Security Model
 
 *ByteRover queries are only allowed in main session:*
-•⁠  ⁠Direct WhatsApp chats with Binh ✅
-•⁠  ⁠Group chats ❌
-•⁠  ⁠Discord ❌
-•⁠  ⁠Sessions with other people ❌
+- Direct WhatsApp chats with Binh ✅
+- Group chats ❌
+- Discord ❌
+- ⁠Sessions with other people ❌
 
 This prevents accidentally leaking personal context (contacts, preferences, private decisions) in shared/public contexts.
 
@@ -202,11 +202,11 @@ Daily logs have the same restriction - only loaded in main session.
 ## Result
 
 A memory system that:
-•⁠  ⁠*Scales* as knowledge grows
-•⁠  ⁠*Retrieves* semantically, not just keyword matching  
-•⁠  ⁠*Organizes* automatically, no manual filing
-•⁠  ⁠*Persists* across sessions and compactions
-•⁠  ⁠*Separates* raw logs from curated knowledge
-•⁠  ⁠*Protects* private context from shared spaces
+- ⁠*Scales* as knowledge grows
+- ⁠*Retrieves* semantically, not just keyword matching
+- *Organizes* automatically, no manual filing
+- ⁠*Persists* across sessions and compactions
+- ⁠*Separates* raw logs from curated knowledge
+- *Protects* private context from shared spaces
 
 It's the difference between having a pile of notebooks vs a searchable, organized knowledge base that gets smarter over time.
